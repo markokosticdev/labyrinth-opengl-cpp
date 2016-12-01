@@ -6,8 +6,8 @@ Labyrinth with OpenGL Glut library in C++
 
 ###Linux
 
-`sudo apt-get install g++` - Install GCC Compiler
-`sudo apt-get install cmake` - Install CMake
+`sudo apt-get install g++` - Install GCC Compiler  
+`sudo apt-get install cmake` - Install CMake  
 `sudo apt-get install freeglut3 freeglut3-dev binutils libxmu-dev libxi-dev` - Instal Glut/OpenGL
 
 ##Download
