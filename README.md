@@ -1,6 +1,6 @@
 # Labyrinth
 
-Labyrinth with OpenGL Glut library in C++
+Labyrinth with OpenGL Glut library in C++ (student project)
 
 ##Install Requirements
 
